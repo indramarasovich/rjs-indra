@@ -1,12 +1,14 @@
 import './App.css'
-import Navbar from './Navbar.jsx'
-import ItemListContainer from './ItemListContainer.jsx'
+import ItemListContainer from './components/ItemListContainer/ItemListContainer'
+import Navbar from './components/Navbar/Navbar'
 
 function App() {
 
   return (
     <> 
-      <Navbar  />
+      <Navbar />
+      <hr/>
+      <ItemListContainer mensaje='Somos una empresa joven, innovadora y que apuesta a crecer. Realizamos una gran variedad de productos.' />
     </>
   )
 }
