@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Remeras",
+        "descripcion": "ksdsl",
+        "precio": 1500,
+        "imagen": ""
+    },
+    {
+        "id": 2,
+        "nombre": "Remeras",
+        "descripcion": "ksdsl",
+        "precio": 1500,
+        "imagen": ""
+    },
+    {
+        "id": 3,
+        "nombre": "Remeras",
+        "descripcion": "ksdsl",
+        "precio": 1500,
+        "imagen": ""
+    },
+    {
+        "id": 4,
+        "nombre": "Remeras",
+        "descripcion": "ksdsl",
+        "precio": 1500,
+        "imagen": ""
+    }
+]
