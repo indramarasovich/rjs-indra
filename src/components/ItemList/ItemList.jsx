@@ -4,11 +4,10 @@ import ItemCard from "../ItemCard/ItemCard"
 const ItemList = ( {items} ) => {
 
     return (
-        <div className="container m-5">
+        <div className="container">
             <h2>Productos</h2>
-            <hr />
 
-            <div className="row">
+            <div className="row justify-content-center">
                 {
                     items.map((prod) => <ItemCard key={prod.id} {...prod}/>)
                 }

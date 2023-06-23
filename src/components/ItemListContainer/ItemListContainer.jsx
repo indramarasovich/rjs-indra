@@ -7,7 +7,7 @@ const ItemListContainer = () => {
     const { productos, loading } = useProductos()
 
     return (
-        <div className="container my-5">
+        <div className="container text-center">
             {
                 loading
                     ? <h2>Cargando</h2>

@@ -1,10 +1,10 @@
+import './ItemCard.css'
 
-
-
-const ItemCard = ({nombre, precio, descripcion}) => {
+const ItemCard = ({imagen, nombre, precio, descripcion}) => {
 
     return (
-        <div className='col-3 m-2'>
+        <div className='estilo col-3 my-4'>
+            <img className="tamaño m-3" src={imagen} />
             <h3>{nombre}</h3>
             <p>{descripcion}</p>
             <p>Precio: ${precio}</p>
