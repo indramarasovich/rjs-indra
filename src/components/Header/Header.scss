@@ -1,0 +1,28 @@
+.estilo-nav {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 1rem;
+
+  .logo {
+    height: 4em;
+    will-change: filter;
+    transition: filter 300ms;
+    border-radius: 50%;
+    
+    &:hover {
+      filter: drop-shadow(0 0 3em #ff6464);
+    }
+  }
+
+  button {
+    border: solid 1px rgba(255, 255, 255, 0.824);
+  }
+
+  .links{
+        font-size: 18px;
+        text-decoration: none;
+        color: white;
+        padding: 10px;
+  }
+  
+}

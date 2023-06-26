@@ -26,10 +26,10 @@ const ItemDetailContainer = () => {
     }, [itemId])
 
     return (
-        <div className='container my-5'>
+        <div className='container my-5 text-center'>
             {
                 loading
-                    ? <h2>Cargando</h2>
+                    ? <h2>Cargando...</h2>
                     : <ItemDetail {...item} />
             }
 
