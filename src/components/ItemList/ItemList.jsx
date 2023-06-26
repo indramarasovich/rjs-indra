@@ -5,7 +5,7 @@ const ItemList = ( {items} ) => {
 
     return (
         <div className="container">
-            <h2>Productos</h2>
+            <h4>Productos</h4>
 
             <div className="row justify-content-center">
                 {

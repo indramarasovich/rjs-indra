@@ -7,12 +7,14 @@ const ItemListContainer = () => {
     const { productos, loading } = useProductos()
 
     return (
-        <div className="container text-center">
-            {
-                loading
-                    ? <h2>Cargando</h2>
-                    : <ItemList items={productos} />
-            }
+        <div className='contenedor'>
+            <div className="container text-center">
+                {
+                    loading
+                        ? <h4>Cargando</h4>
+                        : <ItemList items={productos} />
+                }
+            </div>
         </div>
     )
 }

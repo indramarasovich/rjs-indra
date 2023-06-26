@@ -2,6 +2,10 @@
     max-width: 200px;
 }
 
-.estilo {
-    font-size: 10px;
+.estilo h3 {
+    font-size: 18px;
+}
+
+.estilo p {
+    font-size: 13px;
 }
