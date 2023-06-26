@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "nombre": "Gorras Trucker Personalizadas",
-        "descripcion": "ksdsl",
+        "nombre": "Gorras Personalizadas",
+        "descripcion": "Gorras Truckers Personalizadas con #TULOGO",
         "precio": 1900,
         "imagen": "https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/317553701_578404867620629_1319634524924186924_n.jpg?_nc_cat=104&cb=99be929b-3346023f&ccb=1-7&_nc_sid=730e14&_nc_ohc=-HK0timGlPoAX86QcWY&_nc_ht=scontent-eze1-1.xx&oh=00_AfCZJ9d3_s0aNU9w5bhR9ZAnmWc7tSbIltZom_7kFZ-dGw&oe=649AD350",
         "category": "indumentaria"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "nombre": "Remeras Personalizadas",
-        "descripcion": "ksdsl",
+        "descripcion": "Remeras personalizadas de algodón",
         "precio": 1500,
         "imagen": "https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/316182073_572644931529956_8424548914218963315_n.jpg?_nc_cat=106&cb=99be929b-3346023f&ccb=1-7&_nc_sid=730e14&_nc_ohc=WJSduHGVRRgAX--y3oF&_nc_ht=scontent-eze1-1.xx&oh=00_AfArqRnWS4vgptPzbNFE6SrLdj8MeA2BLWjujRgCUY-GtQ&oe=649A5844",
         "category": "indumentaria"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "nombre": "Vinilos",
-        "descripcion": "ksdsl",
+        "descripcion": "Lo lindo de los vinilos es que podemos decorar casi lo que sea!",
         "precio": 1500,
         "imagen": "https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/274869936_1443696059383374_6693477855433944306_n.jpg?_nc_cat=104&cb=99be929b-3346023f&ccb=1-7&_nc_sid=730e14&_nc_ohc=ELHvFIpHIoAAX9P3f4c&_nc_ht=scontent-eze1-1.xx&oh=00_AfB69ieivuZdXCvfESYboFnnX634k_R768ffwSvDmC48Xw&oe=649A7454",
         "category": "diseño"
@@ -27,42 +27,33 @@
     {
         "id": 4,
         "nombre": "Cuadros personalizados",
-        "descripcion": "ksdsl",
+        "descripcion": "Madera MDF premium, BRILLANTE! Son super livianos para colgar. Medidas Disponibles 20x20cm - 30x20 - 28x40cm",
         "precio": 1500,
         "imagen": "https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/274781094_1443694046050242_3106894691322008177_n.jpg?_nc_cat=111&cb=99be929b-3346023f&ccb=1-7&_nc_sid=730e14&_nc_ohc=rCCscP9Yt3UAX9fEB3l&_nc_ht=scontent-eze1-1.xx&oh=00_AfDWQMCnhgSK0yUHb1SpFnqguAeVDd34eZD1uAS4jtpmbw&oe=649B82D7",
         "category": "diseño"
     },
     {
         "id": 5,
-        "nombre": "Gorras Trucker Personalizadas",
-        "descripcion": "ksdsl",
-        "precio": 1900,
-        "imagen": "https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/317553701_578404867620629_1319634524924186924_n.jpg?_nc_cat=104&cb=99be929b-3346023f&ccb=1-7&_nc_sid=730e14&_nc_ohc=-HK0timGlPoAX86QcWY&_nc_ht=scontent-eze1-1.xx&oh=00_AfCZJ9d3_s0aNU9w5bhR9ZAnmWc7tSbIltZom_7kFZ-dGw&oe=649AD350",
-        "category": "indumentaria"
+        "nombre": "Corpóreas",
+        "descripcion": "Corte y pintura de corpóreas",
+        "precio": 3000,
+        "imagen": "https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/272987076_1434961456923501_2883689690960745781_n.jpg?_nc_cat=103&cb=99be929b-3346023f&ccb=1-7&_nc_sid=730e14&_nc_ohc=JDGE6r5BVGYAX9bW5kg&_nc_ht=scontent-eze1-1.xx&oh=00_AfBw4b6N60YZg56uhVfnhY_z9OWSCChK7Ahi159av_jyXg&oe=649EA5C4",
+        "category": "diseño"
     },
     {
         "id": 6,
-        "nombre": "Remeras Personalizadas",
-        "descripcion": "ksdsl",
+        "nombre": "Tazas Personalizadas",
+        "descripcion": "Muchos modelos",
         "precio": 1500,
-        "imagen": "https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/316182073_572644931529956_8424548914218963315_n.jpg?_nc_cat=106&cb=99be929b-3346023f&ccb=1-7&_nc_sid=730e14&_nc_ohc=WJSduHGVRRgAX--y3oF&_nc_ht=scontent-eze1-1.xx&oh=00_AfArqRnWS4vgptPzbNFE6SrLdj8MeA2BLWjujRgCUY-GtQ&oe=649A5844",
-        "category": "indumentaria"
+        "imagen": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.6435-9/204885669_1274420339644281_2249705452951078491_n.jpg?_nc_cat=102&cb=99be929b-3346023f&ccb=1-7&_nc_sid=a26aad&_nc_ohc=TTcQabud0FsAX-4khXB&_nc_ht=scontent-eze1-1.xx&oh=00_AfBI-syxRX5d-bHmg8-JMpoGte8xPLl1sZKNHNGgQwkWAQ&oe=64C1425E",
+        "category": "diseño"
     },
     {
         "id": 7,
-        "nombre": "Vinilos",
-        "descripcion": "ksdsl",
+        "nombre": "IDENTIFICADORES / CHAPITAS PARA MASCOTAS 100% PERSONALIZADOS",
+        "descripcion": "Fabricados con polímero plástico súper resistentes, Irrompibles, a prueba de lluvia y aptas para la interperie. Personalizado con el nombre de tu mascota y lo màs importante, tu numero de telefono.Incluye anillo metálico de muy buena calidad. El diseño no se desgasta.",
         "precio": 1500,
-        "imagen": "https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/274869936_1443696059383374_6693477855433944306_n.jpg?_nc_cat=104&cb=99be929b-3346023f&ccb=1-7&_nc_sid=730e14&_nc_ohc=ELHvFIpHIoAAX9P3f4c&_nc_ht=scontent-eze1-1.xx&oh=00_AfB69ieivuZdXCvfESYboFnnX634k_R768ffwSvDmC48Xw&oe=649A7454",
+        "imagen": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.6435-9/198788317_1266374730448842_3043391337165653175_n.jpg?_nc_cat=104&cb=99be929b-3346023f&ccb=1-7&_nc_sid=a26aad&_nc_ohc=TS-W4A3BSnUAX_A8_TZ&_nc_ht=scontent-eze1-1.xx&oh=00_AfCklo9s2z9GUReGCJURDEukMYAPSob9u2_1EqgQvFF1Zg&oe=64C13DF5",
         "category": "diseño" 
-    },
-    {
-        "id": 8,
-        "nombre": "Cuadros personalizados",
-        "descripcion": "ksdsl",
-        "precio": 1500,
-        "imagen": "https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/274781094_1443694046050242_3106894691322008177_n.jpg?_nc_cat=111&cb=99be929b-3346023f&ccb=1-7&_nc_sid=730e14&_nc_ohc=rCCscP9Yt3UAX9fEB3l&_nc_ht=scontent-eze1-1.xx&oh=00_AfDWQMCnhgSK0yUHb1SpFnqguAeVDd34eZD1uAS4jtpmbw&oe=649B82D7",
-        "category": "diseño"
-
     }
 ]

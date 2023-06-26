@@ -1,11 +1,11 @@
-.tamaño {
-    max-width: 200px;
-}
-
 .estilo h3 {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .estilo p {
-    font-size: 13px;
+    font-size: 15px;
+}
+
+.estilo img {
+    max-width: 300px;
 }

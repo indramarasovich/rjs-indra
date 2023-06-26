@@ -5,7 +5,7 @@ const ItemCard = ({id, imagen, nombre, precio}) => {
 
     return (
         <div className='estilo col-3 my-4'>
-            <img className="tamaño m-3" src={imagen} />
+            <img className="m-3" src={imagen} />
             <h3>{nombre}</h3>
             <p>Precio: ${precio}</p>
             <Link className="btn btn-primary" to={`/detail/${id}`}>Ver más</Link>
